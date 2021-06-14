@@ -1,0 +1,62 @@
+{
+    "Palo Alto Networks": [
+        {
+            "TECNOLOGIA1": "RED LAN",
+            "MODELO 1": "Firewall NG",
+            "MODELO 2": "IPS",
+            "MODELO 3": "Cliente de Seguridad M\u00f3vil"
+        },
+        {
+            "TECNOLOGIA2": "CLOUD",
+            "MODELO 1": "Soluciones SD-WAN",
+            "MODELO 2": "Seguridad en la Nube",
+            "MODELO 3": "Servicios de Acceso Seguro"
+        },
+        {
+            "TECNOLOGIA3": "SOC",
+            "MODELO 1": "SCorteza XDR",
+            "MODELO 2": "WildFire",
+            "MODELO 3": " Recopilaci\u00f3n de datos de seguridad"
+        }
+    ],
+    "oracle": [
+        {
+            "TECNOLOGIA1": "cloud",
+            "MODELO 1": "administraci\u00f3n de bases de datos",
+            "MODELO 2": "Alta disponibilidad:",
+            "MODELO 3": "Machine Learning"
+        },
+        {
+            "TECNOLOGIA1": "Iot",
+            "MODELO 1": "Fleet Monitoring Cloud Service",
+            "MODELO 2": "Connected Worker Cloud Service:",
+            "MODELO 3": "Production Monitoring"
+        },
+        {
+            "TECNOLOGIA1": "seguridad",
+            "MODELO 1": "Identity and Access Management",
+            "MODELO 2": "Web Application Firewall:",
+            "MODELO 3": "Administraci\u00f3n de claves"
+        }
+    ],
+    "cisco": [
+        {
+            "TECNOLOGIA1": "Redes",
+            "MODELO 1": "Nube de ACI",
+            "MODELO 2": "CSR 1000v:",
+            "MODELO 3": "Meraki vMX"
+        },
+        {
+            "TECNOLOGIA1": "Seguridad",
+            "MODELO 1": "Cloudlock",
+            "MODELO 2": "Firewalls:",
+            "MODELO 3": "Nube de StealthWatch"
+        },
+        {
+            "TECNOLOGIA1": "Administraci\u00f3n de aplicaciones",
+            "MODELO 1": "AppDynamics",
+            "MODELO 2": "Plataforma de contenedores de Cisco:",
+            "MODELO 3": "Intersight Workload Optimizer"
+        }
+    ]
+}
